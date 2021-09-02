@@ -9,7 +9,7 @@ A translator which will take English text from user as input and convert that in
 
 ## How to use?
  
-1. Go to [speakminion](https://speakminion.netlify.app/)
+1. Go to [speakminion](https://thirsty-banach-8523f6.netlify.app/)
 2. Enter the text that you want to covert into Minion speak
 3. Click on Translate button 
 the translated text will be shown on the output box.
