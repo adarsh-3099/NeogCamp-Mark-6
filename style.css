@@ -2,6 +2,7 @@
 
 :root {
   --primary-color: #f2c94c;
+  --secondary-color: #ffff12;
 }
 
 * {
@@ -16,7 +17,7 @@ body {
 
 nav {
   text-align: center;
-  background-color: var(--primary-color);
+  background-image: linear-gradient(var(--secondary-color),var(--primary-color));
   padding: 0.5rem;
 }
 
@@ -49,7 +50,7 @@ main {
 }
 
 #btnTranslate {
-  background-color: var(--primary-color);
+  background-image: linear-gradient(var(--secondary-color),var(--primary-color));
   font-size: large;
   border: 0;
   border-radius: 1rem;
@@ -72,7 +73,7 @@ main {
 footer {
   text-align: center;
   padding: 1rem;
-  background-color: var(--primary-color);
+  background-image: linear-gradient(var(--secondary-color),var(--primary-color));
   width: 100%;
 }
 
